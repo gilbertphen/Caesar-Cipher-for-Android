@@ -7,7 +7,7 @@
 You can run this application using Android Studio's Android device emulator which is heavy on system resources especially the CPU. For best performance build and run the application on your own Android phone.
 https://developer.android.com/studio/index.html
 
-A good tutorial to follow for Android Studio Setup(): https://www.tutorialspoint.com/android/android_studio.htm
+A good tutorial for Android Studio Setup(Windows, Mac, and Linux): https://www.tutorialspoint.com/android/android_studio.htm
 
 ![as](https://user-images.githubusercontent.com/18353476/28494127-6da78c40-6eda-11e7-8fa0-d77a5294b193.png)
 ![creat project](https://user-images.githubusercontent.com/18353476/28494097-63a0df68-6ed9-11e7-929e-3eba9a3f6700.png)
